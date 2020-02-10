@@ -20,3 +20,11 @@
  * Laravel
  * Yii2
  * Redis
+ 
+ 
+ ## 4. Codes
+
+    I do not have much code for github, as I am engaged in a commercial project. All one hundred you can look [GitHub](https://github.com/elkirr)
+ ## 5. Experience
+
+    I took the courses of the PHP developer at the IT Academy. I independently studied additional materials on tutorials, books and videos (youtube)
