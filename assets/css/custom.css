@@ -1,0 +1,14 @@
+.bg {
+    background: url(../images/bg.jpg) repeat-y #3d3858;
+}
+
+.font {
+    font-family: "Tamil Sangam MN", monospace;
+    color: #ffffff;
+    line-height: 1.5;
+}
+
+.white {
+    color: white;
+}
+
